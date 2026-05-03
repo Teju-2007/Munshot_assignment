@@ -3,17 +3,6 @@ import pandas as pd
 import json
 import plotly.express as px
 
-import nltk
-import os
-
-# Create a directory for nltk data so the cloud doesn't get confused
-nltk_data_path = os.path.join(os.getcwd(), 'nltk_data')
-if not os.path.exists(nltk_data_path):
-    os.makedirs(nltk_data_path)
-
-nltk.data.path.append(nltk_data_path)
-nltk.download('vader_lexicon', download_dir=nltk_data_path)
-
 # Set page config for a professional UI polish
 st.set_page_config(page_title="Luggage Competitive Intelligence", layout="wide")
 
