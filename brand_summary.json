@@ -1,0 +1,61 @@
+[
+    {
+        "brand": "Safari",
+        "avg_price": 2585.0,
+        "avg_discount": 0.0,
+        "avg_sentiment": 1.0,
+        "top_pros": [
+            "Space",
+            "Durability",
+            "Zippers"
+        ],
+        "top_cons": [],
+        "position": "Mass-Market"
+    },
+    {
+        "brand": "Skybags",
+        "avg_price": 2690.93,
+        "avg_discount": 0.0,
+        "avg_sentiment": 0.92,
+        "top_pros": [
+            "Space",
+            "Durability",
+            "Zippers"
+        ],
+        "top_cons": [],
+        "position": "Mass-Market"
+    },
+    {
+        "brand": "American Tourister",
+        "avg_price": 3589.6,
+        "avg_discount": 0.0,
+        "avg_sentiment": 0.59,
+        "top_pros": [
+            "Durability",
+            "Zippers",
+            "Wheels"
+        ],
+        "top_cons": [
+            "Weight",
+            "Wheels"
+        ],
+        "position": "Mass-Market"
+    },
+    {
+        "brand": "VIP",
+        "avg_price": 4066.93,
+        "avg_discount": 0.0,
+        "avg_sentiment": 0.72,
+        "top_pros": [
+            "Space",
+            "Durability",
+            "Zippers"
+        ],
+        "top_cons": [
+            "Durability",
+            "Zippers",
+            "Wheels"
+        ],
+        "position": "Mass-Market"
+    }
+]
